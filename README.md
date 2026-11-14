@@ -29,3 +29,7 @@ La suite automatizada contiene exactamente tres casos: CP-001 a CP-003. Los caso
 ## Evidencias en Excel y Word
 
 Ejecuta `npm run evidence` para guardar capturas actualizadas de los tres casos automatizados en `evidencias/capturas/`. El archivo `evidencias.json` conserva las URL observadas por Playwright. La evidencia de los dos casos manuales debe adjuntarse despues de ejecutarlos. Los documentos de entrega se guardan en la carpeta `entregables/`.
+
+## Enlace de entrega
+
+Carpeta de Drive: https://drive.google.com/drive/folders/1yVNTxGqeRFrN9ac5v4HHfd8M0Ob0Kf1Q
