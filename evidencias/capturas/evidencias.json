@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CP-001",
+    "file": "CP-001-inicio.png",
+    "url": "https://buggy.justtestit.org/",
+    "capturedAt": "2026-11-14T16:29:52.846Z"
+  },
+  {
+    "id": "CP-002",
+    "file": "CP-002-listado-general.png",
+    "url": "https://buggy.justtestit.org/overall",
+    "capturedAt": "2026-11-14T16:29:58.569Z"
+  },
+  {
+    "id": "CP-003",
+    "file": "CP-003-detalle-marca.png",
+    "url": "https://buggy.justtestit.org/make/ckl2phsabijs71623vk0",
+    "capturedAt": "2026-11-14T16:30:03.902Z"
+  }
+]
